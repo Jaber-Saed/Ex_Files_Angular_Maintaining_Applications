@@ -6,3 +6,4 @@
 4. if any errors come up around needing unmoved yet external dependencies add static code with a TODO mention, come back to it when the service/external dependency is moved.
 5. repeat until all your code from the *src* has been moved
 6. check if there were any static assets, specific packages in package.json required (in the original project) and configs in the tsconfig, testing files, etc.
+7. Suuuuuuuuuuuuuuu
